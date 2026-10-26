@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.pt
+*.pth
+*.ckpt
+.ipynb_checkpoints/
+data/
+secrets/
